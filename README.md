@@ -128,5 +128,6 @@ archvision/
 
 - Harder synthetic data: heavier noise, blur, rotations, and non-rectangular rooms, with a reported robustness curve
 - Evaluation on real public floorplan datasets to measure the synthetic-to-real gap
+- In general, more training data, real or fake. 
 - More classes (windows, columns) and instance separation of individual walls
 - Orthogonal edge regularization to snap near-axis-aligned edges
